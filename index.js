@@ -1,6 +1,6 @@
 var pdf = require("html-pdf");
 
-var nomeDoUsuario = "Jean";
+var nomeDoUsuario = "Victor Xisto";
 var curso = "Desenvolvimento Sistemas";
 var categoria = "TI";
 
